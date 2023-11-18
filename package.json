@@ -10,9 +10,9 @@
         "poolserver",
         "komodo"
     ],
-    "homepage": "https://github.com/webworker01/node-stratum-pool",
+    "homepage": "https://github.com/ZDEEX/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/webworker01/node-stratum-pool/issues"
+        "url": "https://github.com/ZDEEX/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "webworker01",
@@ -26,7 +26,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/webworker01/node-stratum-pool.git"
+        "url": "https://github.com/ZDEEX/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^2.6.1",
